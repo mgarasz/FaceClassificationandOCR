@@ -39,7 +39,3 @@ notice how in the conditional statements I've covered all case-sensitive extenti
 Acceptable files: 
 VIDEO: .mov, .avi, .mp4   (including capitalized versions)
 IMAGE: .jpg, .png (including capitalized versions)
-
-
-
-IF FOR WHATEVER REASON THE FILES DONT RUN, PLEASE CONTACT ME (I've made sure they ran on school computers but you never know).
