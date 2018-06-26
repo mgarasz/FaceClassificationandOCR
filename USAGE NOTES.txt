@@ -4,6 +4,8 @@ AS THE CLASSIFIERS ARE, INCLUDING THE cardDetector.xml
 (loads in classifier within the function (bug hotfix))
 
 
+NOTE: Unfortunately, most of the pre-trained classifiers were to large to upload. Only those that met the size constraints on github were uploaded.
+
 ####################################################################################################
 
 RecogniseFace(I, featureType, classiferName)
